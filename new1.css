@@ -1,0 +1,18 @@
+h1{
+  color:gold;
+  font-size: 50px;
+  background: rgba(255,0,0,.6);
+  border:3px solid gold;
+}
+li{
+  color:sienna;
+  font-size: 30px;
+}
+body{
+  background: url(https://sites.psu.edu/bjr5500/files/2017/07/background-wallpapers-beautiful-website-sphere-different-backgrounds-2hiuje6.jpg);
+}
+h2{
+  color:pink;
+  border:2px solid darkgreen;
+  background:pink;
+}
